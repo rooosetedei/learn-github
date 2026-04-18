@@ -1,2 +1,4 @@
 Hello this is my test file, 
 i'll do manipulate into this file for the step of learn github
+i'll put this file in main branche so , there is only this file in there.
+but in another branche i am supposed to create new file or edit this file
